@@ -1,2 +1,2 @@
-# quickstart_fast_api
+# FastAPI Quickstart
 A base repo for FastAPI projects
